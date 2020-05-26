@@ -1,0 +1,1 @@
+To use the bindings, import `z3.d` and link with z3 (`-lz3`).
